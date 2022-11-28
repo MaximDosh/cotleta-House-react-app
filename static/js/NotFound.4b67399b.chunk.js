@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcotleta_house_react_app=self.webpackChunkcotleta_house_react_app||[]).push([[187],{9805:function(e,t,a){a.r(t);a(2791);var c=a(2908),u=a(184);t.default=function(){return(0,u.jsx)("div",{children:(0,u.jsx)(c.vr,{})})}}}]);
+//# sourceMappingURL=NotFound.4b67399b.chunk.js.map
