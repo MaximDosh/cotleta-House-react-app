@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cotleta-house-react-app/static/css/main.c951e37c.css",
-    "main.js": "/cotleta-house-react-app/static/js/main.4fb1ce63.js",
-    "Cart.js": "/cotleta-house-react-app/static/js/Cart.355c1fc1.chunk.js",
-    "NotFound.js": "/cotleta-house-react-app/static/js/NotFound.4b67399b.chunk.js",
-    "static/media/empty-cart.png": "/cotleta-house-react-app/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "index.html": "/cotleta-house-react-app/index.html",
-    "main.c951e37c.css.map": "/cotleta-house-react-app/static/css/main.c951e37c.css.map",
-    "main.4fb1ce63.js.map": "/cotleta-house-react-app/static/js/main.4fb1ce63.js.map",
-    "Cart.355c1fc1.chunk.js.map": "/cotleta-house-react-app/static/js/Cart.355c1fc1.chunk.js.map",
-    "NotFound.4b67399b.chunk.js.map": "/cotleta-house-react-app/static/js/NotFound.4b67399b.chunk.js.map"
+    "main.css": "/static/css/main.c951e37c.css",
+    "main.js": "/static/js/main.ba15e9cf.js",
+    "Cart.js": "/static/js/Cart.355c1fc1.chunk.js",
+    "NotFound.js": "/static/js/NotFound.4b67399b.chunk.js",
+    "static/media/empty-cart.png": "/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "index.html": "/index.html",
+    "main.c951e37c.css.map": "/static/css/main.c951e37c.css.map",
+    "main.ba15e9cf.js.map": "/static/js/main.ba15e9cf.js.map",
+    "Cart.355c1fc1.chunk.js.map": "/static/js/Cart.355c1fc1.chunk.js.map",
+    "NotFound.4b67399b.chunk.js.map": "/static/js/NotFound.4b67399b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c951e37c.css",
-    "static/js/main.4fb1ce63.js"
+    "static/js/main.ba15e9cf.js"
   ]
 }
